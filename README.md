@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Matthew Costello
-- I coined the name Ottix many years ago (I was ottix.uucp before I was ottix.com)
+- I coined the name Ottix many years ago (I used ottix.uucp before I was ottix.com)
   and was a Systems Programmer working for one of the BUNCH. I've written programs
   in many programming languages, many of which no longer exist.
 - My first micro-computer used the Motorola 6800 and started with 1K of static RAM and
@@ -26,8 +26,10 @@
   The only remaining issue is Z-Wave certification as that is not currently possible
   for individuals.
 - I've released a fair amount of software into the public domain (mostly pre GPL).
-  I will be releasing newer sofware here on github. I expect that 'espresense' and 'espositon'
-  will be the first. HAPY has been going through a major rewrite and will not be ready until 2024.
+  I will be releasing newer sofware here on github.
+  I expect that 'espresense' and 'espositon' will be the first.
+  HAPY has been going through yet another major rewrite
+  and will not be ready before 2027.
 - 📫 I can be reached via email and on Facebook.
 
 <!---
